@@ -1,9 +1,10 @@
-import { Button } from "@/components/ui/button"
+import { Editor } from "@/components/editor/Editor"
 
 export default function Home() {
   return (
     <div>
-      <Button className="bg-transparent border-2 hover:border-cyan-300 ">Click me</Button>
+      hello world
+      
     </div>
   )
 }
